@@ -1,0 +1,9 @@
+transformers
+torch
+gradio
+pandas
+matplotlib
+phoenix
+uuid
+time
+jupyter
